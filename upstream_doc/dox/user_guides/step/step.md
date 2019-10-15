@@ -8,6 +8,7 @@ STEP processor  {#occt_user_guides__step}
 STEP is more and more widely used to exchange data between various software, involved in CAD, PDM, Analysis, etc... STEP is far more than an "exchange standard" : it provides a technology and a set of methodologies to describe the data to exchange in a modular and upgradeable way. Regarding OCCT, this mostly applies to CAD data but it is not a limitation, other kinds of data for specific applications can be addressed too.
 
 @figure{/user_guides/step/images/step_image002.png, "Image imported from STEP"}
+<img width="300" align="left" style="float: left; margin: 0 10px 0 0;" alt="screenshot" src="https://github.com/filipi/pythonocc-documentation/blob/master/upstream_doc/dox/user_guides/step/images/step_image004.png"> 
 
 Open Cascade allows its users to employ STEP in the following domains:
 * Exchange of data for technical applications, following the state-of-the-art definitions and rules;
